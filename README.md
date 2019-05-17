@@ -1,5 +1,8 @@
 # Hello World!
 Information and personal links for Victor O. Alvarez
+<br>
+<br>
+<img src="https://github.com/victoroalvarez/hello-world/blob/master/bash-148836_640.png" width="50">
 ## About me
 Hello, I'm Victor O. Alvarez, a Computer Engineering student at PUPR Puerto Rico. I like to write and share Python scripts and GNU/Linux shell scripts. I have interest in System Administration, Data Science, Automation, Web Apps and Embedded computing.
 ## Publications
