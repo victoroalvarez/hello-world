@@ -1,5 +1,6 @@
 # Hello World!
-Information and personal links for Victor O. Alvarez
+Information and personal links for Victor O. Alvarez.
+NOTE: This repository is unlicensed and therefore, copyrighted.
 <br>
 <br>
 <img src="https://github.com/victoroalvarez/hello-world/blob/master/bash-148836_640.png" width="50">
