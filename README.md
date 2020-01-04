@@ -2,7 +2,7 @@
 Hello, I'm Victor O. Alvarez, a Computer Engineering student at PUPR Puerto Rico, this repository presents information about and links to my public work. I like to write and share Python and BASH shell scripts. I have interest in Programming, Data Science, Automation and Embedded computing.
 
 ## Websites
-- [Internetworking (Wordpress.com](https://voalvarez.wordpress.org) - Computer Science study blog
+- [Internetworking (Wordpress.com)](https://voalvarez.wordpress.org) - Computer Science study blog
 - [Valeo "be strong" (Medium.com)](https://medium.com/valeo-be-strong) - Original poetry work
 
 ## Software projects
