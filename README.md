@@ -1,5 +1,5 @@
 # Hello World! - Victor O. Alvarez
-Hello, I'm Victor O. Alvarez, a Computer Engineering student at PUPR Puerto Rico, this repository presents information about and links to my public work. I like to write and share Python and BASH shell scripts. I have interest in Programming, Data Science, Automation and Embedded computing.
+Hi, I'm Victor O. Alvarez, a Computer Engineering student at PUPR Puerto Rico. This repository presents information about and links to my public work. I like to write and share Python and BASH shell scripts. I have interest in Programming, AI, Data Science, Automation and Embedded computing.
 
 ## Websites and Publications
 - [Internetworking](https://internetworking.substack.com/) - Computer Science study blog
