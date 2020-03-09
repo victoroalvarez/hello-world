@@ -1,12 +1,12 @@
-# Hello World! - Victor O. Alvarez
-Computer Engineering student at PUPR Puerto Rico. This repository presents information about and links to my public work. I like to share Python and shell scripts. I have interest in computer networks, automation and data science.
+# Hello World!
+Victor O. Alvarez, Computer Engineering student. This repository presents information about and links to my public work. I like to share Python and shell scripts. I have interest in computer networks, automation and data science.
 
-## Websites and Publications
+## Websites
 - [Blog](https://voalvarez.wordpress.com/) - Computer Science study blog
 - [Valeo "be strong" (Medium.com)](https://medium.com/valeo-be-strong) - Original fiction
 - [Valeo.cf](http://valeo.cf) - List of published fiction on Medium.com
 
-## Software projects
+## Projects
 - [Keyterator](https://github.com/victoroalvarez/keyterator) "Useless machine" to iterate over your passwords and send your keystrokes to /dev/null
 
 ## Repositories and Gists
