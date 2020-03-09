@@ -1,5 +1,5 @@
 # Hello World!
-Victor O. Alvarez, Computer Engineering student. This repository presents information about and links to my public work. I like to share Python and shell scripts. I have interest in computer networks, automation and data science.
+Victor O. Alvarez, Computer Engineering student. This repository presents information about and links to my public work. I have interest in computer networks, automation and data science.
 
 ## Websites
 - [Blog](https://voalvarez.wordpress.com/) - Computer Science study blog
