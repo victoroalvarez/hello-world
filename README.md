@@ -2,7 +2,8 @@
 Victor O. Alvarez, Computer Engineering student. This repository presents information about and links to my public work. I have interest in computer networks, automation and data science.
 
 ## Websites
-- [Blog](https://voalvarez.wordpress.com/) - Computer Science study blog
+- [Blog](https://dev.to/victoroalvarez) - Computer Science study blog
+- [Website](https://victoroalvarez.com/) - Website and portfolio
 - [Valeo "be strong" (Medium.com)](https://medium.com/valeo-be-strong) - Original fiction
 - [Valeo.cf](http://valeo.cf) - List of published fiction on Medium.com
 
