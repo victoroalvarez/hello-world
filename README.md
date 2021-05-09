@@ -1,14 +1,11 @@
 # Hello World!
-Victor O. Alvarez, Computer Engineering student. This repository presents information about and links to my public work. I have interest in computer networks, automation and data science.
+Victor O. Alvarez, Computer Engineering student and writer. This repository presents information about and links to my public work. I have interest in computer networks, automation and data science.
 
 ## Websites
-- [Blog](https://dev.to/victoroalvarez) - Computer Science study blog
+- [Blog](https://blog.victoroalvarez.com) - Computer Science study blog
+- [Medium](https://victoroalvarez.medium.com) - Medium blog
 - [Website](https://victoroalvarez.com/) - Website and portfolio
-- [Valeo "be strong" (Medium.com)](https://medium.com/valeo-be-strong) - Original fiction
-- [Valeo.cf](http://valeo.cf) - List of published fiction on Medium.com
-
-## Projects
-- [Keyterator](https://github.com/victoroalvarez/keyterator) "Useless machine" to iterate over your passwords and send your keystrokes to /dev/null
+- [Valeo.cf](http://valeo.cf) - List of published poetry
 
 ## Repositories and Gists
 - [Github Repositories](https://github.com/victoroalvarez?tab=repositories)
@@ -17,7 +14,7 @@ Victor O. Alvarez, Computer Engineering student. This repository presents inform
 
 ## Tools
 These are tools and equipment I use and recommend.
-- Laptop with Debian Linux OS and Windows 10 OS
+- Laptop with Arch Linux OS and Windows 10 OS
 - Arduino
 - Beaglebone Black
 - NodeMCU
